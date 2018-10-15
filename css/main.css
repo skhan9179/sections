@@ -11,5 +11,29 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 div {
+  display: inline-block;
+  max-width: 50%;
+}
+
+img {
+  width: 100%;
+}
+
+h2 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+a, a:visited {
+  display: inline-block;
+
+  text-decoration: none;
 }
